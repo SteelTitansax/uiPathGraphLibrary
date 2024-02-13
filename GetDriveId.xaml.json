@@ -1,0 +1,45 @@
+{
+  "DisplayName": null,
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "Drive_Name",
+      "DisplayName": "Drive_Name",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Documents",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Site_Id",
+      "DisplayName": "Site_Id",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "ac8ecbb7-4b1b-4216-b770-004cde530334,89e021e1-40a5-4fd9-8fb2-6c27f9b09ef3",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Drive_Id",
+      "DisplayName": "Drive_Id",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

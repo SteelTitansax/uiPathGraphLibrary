@@ -1,0 +1,69 @@
+{
+  "DisplayName": null,
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_SiteName",
+      "DisplayName": "in_SiteName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Mail_Manipulation",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_DriveName",
+      "DisplayName": "in_DriveName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Documents",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strFileName",
+      "DisplayName": "in_strFileName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Minute_10_27_2022.docx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strFileFolder",
+      "DisplayName": "in_strFileFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Minutes",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strDownloadPath",
+      "DisplayName": "in_strDownloadPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Temp",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
